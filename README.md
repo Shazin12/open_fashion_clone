@@ -8,7 +8,7 @@
   <img src="https://github.com/Shazin12/open_fashion_clone/blob/main/of/3.jpg" alt="Image 3" style="width: 200px; height: auto;">
   <img src="https://github.com/Shazin12/open_fashion_clone/blob/main/of/4.jpg" alt="Image 4" style="width: 200px; height: auto;">
   <img src="https://github.com/Shazin12/open_fashion_clone/blob/main/of/5.jpg" alt="Image 5" style="width: 200px; height: auto;">
+   <img src="https://github.com/Shazin12/open_fashion_clone/blob/main/of/7.jpg" alt="Image 7" style="width: 200px; height: auto;">
   <img src="https://github.com/Shazin12/open_fashion_clone/blob/main/of/6.jpg" alt="Image 6" style="width: 200px; height: auto;">
-  <img src="https://github.com/Shazin12/open_fashion_clone/blob/main/of/7.jpg" alt="Image 7" style="width: 200px; height: auto;">
   <img src="https://github.com/Shazin12/open_fashion_clone/blob/main/of/8.jpg" alt="Image 8" style="width: 200px; height: auto;">
 </div>
